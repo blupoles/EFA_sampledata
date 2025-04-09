@@ -43,7 +43,7 @@
     ```
 4.  **スクリプトの実行:**
     ```bash
-    python generate_car_data_5f_20q.py
+    python efa_sample_data_generator.py
     ```
     スクリプト実行時に、ターミナルにもヘッダーと質問文の対応リスト（抜粋）が表示されます。
 
